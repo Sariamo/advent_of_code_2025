@@ -3,3 +3,4 @@
 /.venv
 **/input
 **/test_input
+**/__init__.py
